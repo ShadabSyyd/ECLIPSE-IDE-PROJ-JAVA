@@ -1,0 +1,26 @@
+package week4.Basic;
+class Animal{
+	static int count;
+	String name;
+	
+	void setname(String name){
+		this.name=name;
+	}
+	
+	String getname() {
+		return name; 	
+	}
+	
+	void updateCount() {  //We Can use static void updateCount 
+		count++;
+		System.out.println(count);
+	}
+}
+
+class C04MethodImplementation {
+	Animal cat= new Animal();
+	cat.setname("Pill");
+	System.out.println(cat.getname());
+	cat.updatecount();
+	
+}

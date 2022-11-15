@@ -1,0 +1,10 @@
+package week4.Basic;
+
+public class C01ClassImplementation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

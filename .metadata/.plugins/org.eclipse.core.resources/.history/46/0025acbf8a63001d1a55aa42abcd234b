@@ -1,0 +1,27 @@
+package week4.Basic;
+class Animal{
+	static int count;
+	String name;
+	
+	void setName(String name){
+		this.name=name;
+	}
+	
+	String getName() {
+		return name; 	
+	}
+	
+	static void updateCount() {
+		count++;
+		System.out.println(count);
+	}
+}
+
+public class C04MethodImplementation{
+	public static void main(String[] args) {
+		Animal cat= new Animal();
+		cat.setName("Pill");
+		System.out.println(cat.getName());
+		cat.updateCount();
+	}
+}

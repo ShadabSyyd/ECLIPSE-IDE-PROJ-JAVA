@@ -1,0 +1,12 @@
+package week4.Basic;
+
+class C02ObjectImplementation {
+
+}
+
+class Animal{
+	public static void main(String[] args) {
+		C02ObjectImplementation Cat= new C02ObjectImplementation();
+		System.out.println(Cat);
+	}
+}
