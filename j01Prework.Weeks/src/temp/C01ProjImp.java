@@ -33,9 +33,9 @@ class C01ProjImp{
 		
 		Animal.planet="Mars";
 		System.out.println(cat.planet+"\n"+bird.planet);
-
-
-
+		
+		
+		
 
 	}
 }

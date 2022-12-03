@@ -1,5 +1,5 @@
 package week4.Basic;
-class Animal{
+class Animal1{
 	static int count;
 	String name;
 	
@@ -20,8 +20,8 @@ class Animal{
 
 class C04MethodImplementation{
 	public static void main (String[] args) {
-		Animal cat= new Animal();
-		Animal bird= new Animal();
+		Animal1 cat= new Animal1();
+		Animal1 bird= new Animal1();
 		cat.setName("Pill");
 		System.out.println(cat.getName());
 		cat.updateCount();

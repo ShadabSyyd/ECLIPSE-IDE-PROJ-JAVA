@@ -1,5 +1,5 @@
 package temp;
-class Animal{
+ class ANImals{
 	static int count;
 	String name;
 	
@@ -11,17 +11,17 @@ class Animal{
 		return name; 	
 	}
 	
-	static void updateCount() {  //We Can use--> 
+	 void updateCount() {  //We Can use--> 
 		//										void updateCount(){
 		count++;
 		System.out.println(count);
 	}
 }
 
-class C04MethodImplementation{
+class Temp1{
 	public static void main (String[] args) {
-		Animal cat= new Animal();
-		Animal bird= new Animal();
+		ANImals cat= new ANImals();
+		ANImals bird= new ANImals();
 		cat.setName("Pill");
 		System.out.println(cat.getName());
 		cat.updateCount();
