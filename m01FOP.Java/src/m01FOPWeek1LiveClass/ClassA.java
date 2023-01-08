@@ -1,7 +1,7 @@
 package m01FOPWeek1LiveClass;
 class ClassB{
     public int x;
-    private int y;                                                    
+    public int y;                                                    
     void cal(int a, int b){
      x =  a + 1;
      y =  b;                                                    

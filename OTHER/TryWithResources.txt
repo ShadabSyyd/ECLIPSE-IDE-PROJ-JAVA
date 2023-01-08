@@ -1,0 +1,2 @@
+Welcome to try-with-resources demo!
+Something new

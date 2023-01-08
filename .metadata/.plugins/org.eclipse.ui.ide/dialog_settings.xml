@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="W:\GLR JAV FILES\WORKS GLR\Lab Assignment 1"/>
 			<item value="W:\GLR JAV FILES\ECLIPSE IDE PROJECTS\week1_Basic\src\week1_Basic"/>
 		</list>
 	</section>
@@ -22,7 +23,11 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="W:\GLR JAV FILES\ECLIPSE IDE PROJECTS\ExceptionHandlingCaseStudy"/>
+			<item value="W:\GLR JAV FILES\GLR FORKS\Fork Joyce Banking Problem\JoyceForkIITR_JavaFSD_Nov2022_Participants\EmailApplication"/>
+			<item value="W:\GLR JAV FILES\GLR FORKS\Fork Joyce Banking Problem"/>
 			<item value="W:\GLR JAV FILES\ECLIPSE IDE PROJECTS"/>
+			<item value="W:\GLR JAV FILES\WORKS GLR\Lab Assessment 1 OOps"/>
 			<item value="W:\GLR JAV FILES\ECLIPSE IDE PROJECTS\week1_Basic"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
